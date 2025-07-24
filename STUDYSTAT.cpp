@@ -1,3 +1,6 @@
+//You need to install the SDL library to run this code 
+//try to install the latest version of it 
+
 #include <iostream>
 #include <string>
 #include <vector>
