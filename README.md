@@ -20,6 +20,6 @@ The project is about tracking the study time of a student.
    
 ## Team Members
 A speacial thanks to all the team members.
-- [Chirag Singh]
-- [Mishita Joshi]
+- [Chirag Singh](https://github.com/chrg613)
+- [Mishita Joshi](https://github.com/joshi-mishita)
 - [Rashi Rajput]
